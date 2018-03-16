@@ -1,0 +1,23 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "Chatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bidhan59/Node-Socket-App.git"
+  },
+  "author": "Bidhan Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bidhan59/Node-Socket-App/issues"
+  },
+  "homepage": "https://github.com/Bidhan59/Node-Socket-App#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
